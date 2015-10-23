@@ -1,0 +1,23 @@
+name: micahyaple
+favicon: null
+layout_spectrum: 0.372755745658651
+typography_spectrum: 0.03322360501624644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.12758222129195929
+  lightness: 0.18577685207128525
+  saturation: 0.6462677996605635
+  rhythmicContrast: 0.7875650934875011
+purpose: []
